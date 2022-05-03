@@ -1,23 +1,5 @@
-# **🔥 𝗧𝗵𝗲 𝗦𝗵𝗮𝗱𝗼𝘄 𝗕𝗿𝗼𝗸𝗲𝗿𝘀 - 𝗕𝗼𝘁 🔥**
-### `NECESITAS AYUDA?, CONTACTAME`
-<a href="http://wa.me/5219992095479" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-> NO BOT
-### `GRUPOS OFICIALES DEL BOT`
-[![Grupo de WhatsApp](https://img.shields.io/badge/GRUPO_OFICIAL_1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JlomZPEgo3bLmzjGUYPfyJ)
-[![Grupo de WhatsApp](https://img.shields.io/badge/GRUPO_OFICIAL_2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/DbXBmsydWBE1ZN3EoY0hRs)
-[![Grupo de WhatsApp](https://img.shields.io/badge/GRUPO_OFICIAL_3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/BW0P22xx7EGBTdH5IM851F)
-[![Grupo de WhatsApp](https://img.shields.io/badge/GRUPO_OFICIAL_4-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/CjexkGVr37J6GuSdDVAHzC)
-[![Grupo de WhatsApp](https://img.shields.io/badge/GRUPO_OFICIAL_5-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/H7NUXdrGlFg20ae3bqgwlb)
-[![Grupo de WhatsApp](https://img.shields.io/badge/GRUPO_OFICIAL_6-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GvrLSUSzVuT9P17CKfdxDa)
-[![Grupo de WhatsApp](https://img.shields.io/badge/GRUPO_OFICIAL_7-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EpzuymKm6lG08k6J2Dwx7F)
-[![Grupo de WhatsApp](https://img.shields.io/badge/GRUPO_OFICIAL_8-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/IW12dLVoyWGHreGpX7rQIw)
-[![Grupo de WhatsApp](https://img.shields.io/badge/GRUPO_OFICIAL_9-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Ef89aIuOLeD3Fa2sYmKwp7)
-[![Grupo de WhatsApp](https://img.shields.io/badge/GRUPO_OFICIAL_10-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/C2WYb1hiiijCI13QSUZLM9)
-### `AJUSTES`
-- CAMBIAR NÚMERO DE PROPIETARIO [Aqui](https://github.com/BrunoSobrino/ShadowBotV3/blob/master/config.js)
+# **🔥 Danery - 𝗕𝗼𝘁 🔥**
 
-### `Video tutorial para instalar el Bot`
-<a href="https://www.youtube.com/watch?v=dP8-aaHinBE&t=55s"><img height="30" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>&nbsp;&nbsp;
 
 ### `INSTALACION TERMUX`
 ```bash
